@@ -1,4 +1,4 @@
-# Zosh Food
+# QuickBite
 
 1. **User:**
     - ID (Auto-generated)
