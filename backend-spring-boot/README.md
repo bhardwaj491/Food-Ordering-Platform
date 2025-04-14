@@ -5,11 +5,8 @@
     - Username
     - Password
     - Email
-    - Phone Number
     - Address
     - Role (Customer or Restaurant Owner)
-    - Registration Date
-    - Last Login Date
 2. **Restaurant:**
     - ID (Auto-generated)
     - Name
@@ -54,19 +51,6 @@
     - Payment Status
     - Total Amount
     - Payment Timestamp
-7. **~~Delivery Executive:~~**
-    - ~~ID (Auto-generated)~~
-    - ~~Name~~
-    - ~~Contact Information~~
-    - ~~Availability Status~~
-    - ~~Current Location (Latitude and Longitude)~~
-8. **Review/Rating:**
-    - ID (Auto-generated)
-    - Customer (reference to User entity)
-    - Restaurant (reference to Restaurant entity)
-    - Rating
-    - Review Text
-    - Timestamp
 9. **Promotion/Coupon:**
     - ID (Auto-generated)
     - Code
